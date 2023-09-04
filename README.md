@@ -5,6 +5,8 @@ Conducted with a civilian PhD in the Department of Mathematical Sciences (D/Math
 # Data
 Data come from the 2004-2018 National Health Interview Survey (NHIS) via the Integrated Public Use Microdata Series (IPUMS) website. The IPUMS NHIS dataset consists of self-reported responses to questions regarding health health-related behavior harmonized across NHIS waves.  A total of N=444,743 sample adults  were used for this analysis.
 
+This dataset is 251MB, and so is not uploaded here for space's sake. The workspace with it uploaded is only 44MB, and is included (`workspace.RData` file). 
+
 # Cleaning and Analysis
 To read the data into R, I wrote a script to read the fixed-width formatting provided by NHIS based on the provided codebooks. Because the data were weighted census data, the R package `survey` was used extensively. 
 
