@@ -16,5 +16,13 @@ While I was only one member of the teach which worked on this research grant, my
 - Logistic Regression (to predict obesity),
 - Decision Trees (to predict obesity).
 
+One example of the trees:  
+![Tree Visualization](/images/tree1.png)
+
+For each of the models, I considered three different perspectives building the model:
+- lifestyle factors only,
+- lifestyle factors and a "regional" variable,
+- lifestyle-region interaction variables.
+
 # Results
 The work was aimed at academic publication in response to a grant obtained by one of the civilian faculty in D/Math. As of September 2023, I understand we still do not have a formal publication acceptance. 
